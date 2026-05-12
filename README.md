@@ -1,4 +1,4 @@
-# StyleAI - AI Powered Fashion Styling Advisor
+# AI-powered fashion recommendation system
 
 StyleAI is an AI-powered fashion recommendation web application that provides personalized outfit suggestions based on skin tone analysis and user preferences. The system uses Groq’s LLaMA 3.3 70B model to generate smart fashion and styling recommendations.
 
